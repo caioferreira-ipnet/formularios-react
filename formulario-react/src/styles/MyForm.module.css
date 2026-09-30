@@ -1,0 +1,28 @@
+.formContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.form {
+  width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: left;
+}
+form {
+  width: 500px;
+
+  margin: 0 auto;
+  padding: 20px;
+  text-align: left;
+}
+input,
+textarea,
+select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
